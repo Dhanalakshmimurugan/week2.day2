@@ -21,6 +21,10 @@ public class TwoWheeler {
 		String bikeName="DIO";
 		System.out.println("BIKE NAME = "+ bikeName);
 	}
+        Public void runningKm() {
+                 double runningKm=1500;
+                 System.out.println("RUNNING KM = "+runningKm);
+        }
 	
 	
 	public static void main(String[] args) {
