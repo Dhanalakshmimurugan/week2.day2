@@ -34,5 +34,6 @@ public class TwoWheeler {
 	    specification.chassisNumber();
 	    specification.isPunctured();
 	    specification.bikeName();
+            specification.runningKm();
 	    }
 }
